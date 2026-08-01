@@ -1,0 +1,16 @@
+{
+  "short_name": "ExpenseTracker",
+  "name": "Personal Expense Tracker & Budget Manager",
+  "icons": [
+    {
+      "src": "pwa-icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait"
+}
